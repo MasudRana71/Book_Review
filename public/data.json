@@ -1,0 +1,82 @@
+[
+    {
+      "bookId": 1,
+      "bookName": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "image": "https://ibb.co.com/cFSst2R",
+      "review": "A gripping psychological thriller that keeps you guessing until the very end.",
+      "totalPages": 336,
+      "rating": 4.2,
+      "category": "Fiction",
+      "tags": ["Suspense", "Psychological"],
+      "publisher": "Celadon Books",
+      "yearOfPublishing": 2019
+    },
+    {
+      "bookId": 2,
+      "bookName": "Educated",
+      "author": "Tara Westover",
+      "image": "https://ibb.co.com/681T9nN",
+      "review": "A compelling memoir about the author's journey from a survivalist family to Cambridge University.",
+      "totalPages": 352,
+      "rating": 4.5,
+      "category": "Biography",
+      "tags": ["Memoir", "Education"],
+      "publisher": "Random House",
+      "yearOfPublishing": 2018
+    },
+    {
+      "bookId": 3,
+      "bookName": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "image": "https://ibb.co.com/xgMqt93",
+      "review": "A thought-provoking exploration of human history and evolution.",
+      "totalPages": 464,
+      "rating": 4.7,
+      "category": "History",
+      "tags": ["Anthropology", "Evolution"],
+      "publisher": "Harper",
+      "yearOfPublishing": 2014
+    },
+    {
+      "bookId": 4,
+      "bookName": "Atomic Habits",
+      "author": "James Clear",
+      "image": "https://ibb.co.com/N7ZzfHS",
+      "review": "A practical guide to building good habits and breaking bad ones.",
+      "totalPages": 320,
+      "rating": 4.6,
+      "category": "Self-Help",
+      "tags": ["Habits", "Productivity"],
+      "publisher": "Avery",
+      "yearOfPublishing": 2018
+    },
+    {
+      "bookId": 5,
+      "bookName": "Where the Crawdads Sing",
+      "author": "Delia Owens",
+      "image": "https://ibb.co.com/pZchmGm",
+      "review": "An atmospheric novel about isolation, nature, and mystery.",
+      "totalPages": 384,
+      "rating": 4.4,
+      "category": "Fiction",
+      "tags": ["Mystery", "Nature"],
+      "publisher": "G.P. Putnam's Sons",
+      "yearOfPublishing": 2018
+    },
+    {
+      "bookId": 6,
+      "bookName": "Becoming",
+      "author": "Michelle Obama",
+      "image": "https://ibb.co.com/Lz0Fc0Q",
+      "review": "An inspiring memoir of the former First Lady's journey from the South Side of Chicago to the White House.",
+      "totalPages": 426,
+      "rating": 4.8,
+      "category": "Biography",
+      "tags": ["Memoir", "Politics"],
+      "publisher": "Crown Publishing Group",
+      "yearOfPublishing": 2018
+    }
+  ]
+
+  
